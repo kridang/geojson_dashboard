@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Tokyo Tower", "type": "Landmark" },
+      "geometry": { "type": "Point", "coordinates": [139.7454, 35.6586] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Mount Fuji", "type": "Natural Wonder" },
+      "geometry": { "type": "Point", "coordinates": [138.7274, 35.3606] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Fushimi Inari Shrine", "type": "Cultural Site" },
+      "geometry": { "type": "Point", "coordinates": [135.7727, 34.9671] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Hiroshima Peace Memorial Park", "type": "Historical Site" },
+      "geometry": { "type": "Point", "coordinates": [132.4547, 34.3955] }
+    }
+  ]
+}

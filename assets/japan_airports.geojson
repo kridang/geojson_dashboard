@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "name": "japan_airports",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "id": "air001", "name": "Tokyo Haneda Airport", "city": "Tokyo", "iata": "HND" },
+      "geometry": { "type": "Point", "coordinates": [139.7798, 35.5494, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "air002", "name": "Narita International Airport", "city": "Narita", "iata": "NRT" },
+      "geometry": { "type": "Point", "coordinates": [140.3854, 35.7732, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "air003", "name": "Kansai International Airport", "city": "Osaka", "iata": "KIX" },
+      "geometry": { "type": "Point", "coordinates": [135.243, 34.4347, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "air004", "name": "Chubu Centrair International Airport", "city": "Nagoya", "iata": "NGO" },
+      "geometry": { "type": "Point", "coordinates": [136.8054, 34.8584, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "air005", "name": "New Chitose Airport", "city": "Sapporo", "iata": "CTS" },
+      "geometry": { "type": "Point", "coordinates": [141.681, 42.7752, 0.0] }
+    }
+  ]
+}
